@@ -1,0 +1,16 @@
+{
+  "name": "nodemailer-example",
+  "version": "0.0.1",
+  "description": "A starter project for Nodemailer using React",
+  "repository": "https://github.com/nodemailer",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "*",
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"    
+  },
+  "main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	}
+}
