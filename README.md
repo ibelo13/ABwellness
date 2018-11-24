@@ -5,6 +5,6 @@ This is a platform for therapist to be able to accept bookings and have a custom
 
 Current Needs
 
-Notification System
-Search Bar 
-php mysql intergration
+*Notification System
+*Search Bar 
+*php mysql intergration
