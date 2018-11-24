@@ -8,3 +8,5 @@ Current Needs
 *Notification System
 *Search Bar 
 *php mysql intergration
+*booking system
+*email notification system
